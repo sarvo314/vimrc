@@ -31,8 +31,9 @@ set guioptions-=L
 set background=dark
 colorscheme peaksea
 
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Line number
+set relativenumber
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Fast editing and reloading of vimrc configs
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 map <leader>e :e! ~/.vim_runtime/my_configs.vim<cr>
