@@ -77,6 +77,8 @@ map ½ $
 cmap ½ $
 imap ½ $
 
+"Clipboard
+set clipboard=unnamed
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Parenthesis/bracket
